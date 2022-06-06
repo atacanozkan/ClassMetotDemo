@@ -1,0 +1,13 @@
+D:\Calisma\c_charp\kodlama.io\Projects\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.exe
+D:\Calisma\c_charp\kodlama.io\Projects\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.deps.json
+D:\Calisma\c_charp\kodlama.io\Projects\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.runtimeconfig.json
+D:\Calisma\c_charp\kodlama.io\Projects\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.runtimeconfig.dev.json
+D:\Calisma\c_charp\kodlama.io\Projects\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.dll
+D:\Calisma\c_charp\kodlama.io\Projects\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.pdb
+D:\Calisma\c_charp\kodlama.io\Projects\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.csprojAssemblyReference.cache
+D:\Calisma\c_charp\kodlama.io\Projects\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.AssemblyInfoInputs.cache
+D:\Calisma\c_charp\kodlama.io\Projects\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.AssemblyInfo.cs
+D:\Calisma\c_charp\kodlama.io\Projects\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.csproj.CoreCompileInputs.cache
+D:\Calisma\c_charp\kodlama.io\Projects\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.dll
+D:\Calisma\c_charp\kodlama.io\Projects\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.pdb
+D:\Calisma\c_charp\kodlama.io\Projects\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.genruntimeconfig.cache
